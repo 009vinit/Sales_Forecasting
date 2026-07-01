@@ -1,6 +1,7 @@
+streamlit
 pandas
-numpy
 matplotlib
-scikit-learn
+plotly
 statsmodels
-jupyter
+numpy
+scikit-learn
